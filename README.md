@@ -27,6 +27,9 @@ The goal is to derive useful business insights using **Excel**, **SQL**, and **P
 * **Excel** – Data cleaning and preliminary exploration
 * **MySQL** – Querying and aggregating sales insights
 * **Python (Pandas, Matplotlib, Seaborn)** – Data visualization and advanced analytics
+*  **Tableau ** - for interactive visualization
+* ** Dataset ** - Laptop specifications and pricing data
+
 ---
 
 ## 🧾 SQL Analysis Summary
@@ -59,8 +62,35 @@ Contains:
 * GPU and CPU specifications significantly influence pricing.
 
 ---
+## Tableau
 
-## 🎯 Conclusion
+The dashboard highlights:
+1. Key Metrics
+Total Laptop Volume: 1.27K
+Total Sales: 1.44M
+Price Range / Volatility: 5.92K
+
+2. Price Analysis
+Average laptop price by Operating System
+Price comparison by RAM capacity
+Laptop Type-wise price distribution (Gaming, Notebook, Ultrabook, etc.)
+
+3. Sales & Specification Trends
+Screen type sales distribution (Full HD, 4K, Standard)
+Top 10 companies by laptop price (Dell, Lenovo, HP, etc.) 
+
+4. Filters Available
+Weight
+Memory
+
+## Purpose
+This dashboard helps users quickly understand:
+Which brands dominate pricing
+How specs affect price
+What OS and screen types are most popular
+Overall laptop market behavior
+
+##  Conclusion
 
 This analysis helps understand:
 
